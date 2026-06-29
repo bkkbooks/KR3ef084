@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ef084/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金匱要略方論本義
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef084.xml
+hash: sha256:a415b6f95d050b9ea9af64fb80b6c6e2a02a69b42211d788a785193f75e12a18

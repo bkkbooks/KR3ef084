@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3ef084/T/v1
+canonical_location: https://kanripo.org/bkk/KR3ef084/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金匱要略方論本義
+  identifiers:
+    krp: KR3ef084
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef084.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef084_001-T.yaml, hash: 'sha256:a415b6f95d050b9ea9af64fb80b6c6e2a02a69b42211d788a785193f75e12a18'}
+table_of_contents: []
+hash: sha256:0513fb446fb14465b1e05bc6f87d5149a7d088be7fd62efab7b99f417b00ff07
