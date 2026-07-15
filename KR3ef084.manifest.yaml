@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef084/v1
 canonical_location: https://kanripo.org/bkk/KR3ef084/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 金匱要略方論本義
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3ef084_001.yaml
     hash: sha256:a415b6f95d050b9ea9af64fb80b6c6e2a02a69b42211d788a785193f75e12a18
 table_of_contents: []
-hash: sha256:a8e5116d3989b8a61f456b2697e858d4f9737a0ad2d0273ca839e9e46faa311e
+hash: sha256:8534c679d537dde1f59a5ac45952cac5f90fc2255ccdfed19f7ec9196bfc2188
